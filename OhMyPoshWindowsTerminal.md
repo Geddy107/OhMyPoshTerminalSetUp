@@ -4,11 +4,11 @@
 
 ## **_From This..._**
 
-![Lame Terminal](READMEImages/lameterminal.png "Lame Terminal")
+![Lame Terminal](READMEImages/lameterminal.PNG "Lame Terminal")
 
 ## **_To This..._**
 
-![Cool Terminal](READMEImages/coolterminal.png "Cool Terminal")
+![Cool Terminal](READMEImages/coolterminal.PNG "Cool Terminal")
 
 # Making It Happen
 
@@ -41,7 +41,7 @@ notepad $Profile
 ```
 
 - If you do not have a profile yet you will see the following message (below), be sure to click yes and allow the profile to be created
-  ![PS Profile Creation](READMEImages/createpsprofile.png "creating your PS profile")
+  ![PS Profile Creation](READMEImages/createpsprofile.PNG "creating your PS profile")
 - In the Notepad that has been created, paste the below and save the document.
 
 ```POWERSHELL
