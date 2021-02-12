@@ -8,7 +8,7 @@
 
 ## **_To This..._**
 
-![Cool Terminal](READMEImages/coolterminal.PNG "Cool Terminal")
+![Cool Terminal](READMEImages/CoolTerminal.PNG "Cool Terminal")
 
 # Making It Happen
 
